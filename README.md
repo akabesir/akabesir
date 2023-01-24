@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React/Firebase/Redux**
 
-- 👨‍💻 All of my projects are available at [amarbesirovic.dev (in progress)](amarbesirovic.dev (in progress))
+- 👨‍💻 All of my projects are available at amarbesirovic.dev (in progress)(amarbesirovic.dev (in progress))
 
 - 📫 How to reach me **amarbesirovic@gmail.com**
 
