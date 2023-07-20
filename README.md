@@ -11,7 +11,7 @@
 - 📫 How to reach me **amarbesirovic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://www.linkedin.com/in/amar-be%C5%A1irovi%C4%87-a2476727a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="thebesir1" height="30" width="40" /></a>
 
 
