@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="developer" align="right">
 
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently working on **Wordpress** projects
 
 - 👨‍💻 All of my projects are available at amarbesirovic.dev (in progress)
 
