@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
   <a href="https://www.linkedin.com/in/amar-be%C5%A1irovi%C4%87-a2476727a/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png" alt="thebesir1" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="thebesir1" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01dfe66e89a004a68d?viewMode=1" target="_blank">
     <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="thebesir1" height="30" width="40" />
