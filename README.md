@@ -1,6 +1,6 @@
 ![MasterHead](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
 <h1 align="center">Hi There 👋, I'm Besirovic Amar</h1>
-<h3 align="center">Self taught fullstack developer/student from Bosnia and Herzegovina who loves to work with any modern technology (Wordpress, JavaScript/TypeScript, React, Redux, Firebase, Next.js, Node JS, Mongo DB etc...)</h3>
+<h3 align="center">Self taught fullstack developer/student from Bosnia and Herzegovina who loves to work with any modern technology (JavaScript/TypeScript, React, Redux+Toolkit, Firebase, Next.js, Node/Express JS, Mongo DB etc...)</h3>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="developer" align="right">
 
 
